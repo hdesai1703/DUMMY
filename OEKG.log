@@ -1,0 +1,165 @@
+2023-06-25 00:00:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 00:05:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 00:10:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 00:15:00 [DefaultQuartzScheduler_Worker-4] ERROR com.olympus.OEKG.Utility.utility - ???????????????	EXCEPTION	???????????????
+2023-06-25 00:15:00 [DefaultQuartzScheduler_Worker-4] ERROR com.olympus.OEKG.Utility.utility - utility::getBCDatabaseDetails()::EXCEPTION::::
+Exception ::CODE::::MESSAGE:ErrorCode :0 ErrorMessage: Connection reset by peer
+2023-06-25 00:15:00 [DefaultQuartzScheduler_Worker-4] ERROR com.olympus.OEKG.Utility.utility - ????????????????????????????????????????????
+2023-06-25 00:15:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 00:20:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 00:25:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 00:30:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 00:35:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 00:40:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 00:45:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 00:50:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 00:55:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 01:00:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 01:05:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 01:10:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 01:15:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 01:20:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 01:25:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 01:30:00 [DefaultQuartzScheduler_Worker-9] ERROR com.olympus.OEKG.Utility.utility - ???????????????	EXCEPTION	???????????????
+2023-06-25 01:30:00 [DefaultQuartzScheduler_Worker-9] ERROR com.olympus.OEKG.Utility.utility - utility::getBCDatabaseDetails()::EXCEPTION::::
+Exception ::CODE::::MESSAGE:ErrorCode :0 ErrorMessage: Connection reset by peer
+2023-06-25 01:30:00 [DefaultQuartzScheduler_Worker-9] ERROR com.olympus.OEKG.Utility.utility - ????????????????????????????????????????????
+2023-06-25 01:30:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 01:35:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 01:40:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 01:45:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 01:50:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 01:55:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 02:00:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 02:05:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 02:10:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 02:15:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 02:20:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 02:25:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 02:30:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 02:35:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 02:40:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 02:45:00 [DefaultQuartzScheduler_Worker-4] ERROR com.olympus.OEKG.Utility.utility - ???????????????	EXCEPTION	???????????????
+2023-06-25 02:45:00 [DefaultQuartzScheduler_Worker-4] ERROR com.olympus.OEKG.Utility.utility - utility::getBCDatabaseDetails()::EXCEPTION::::
+Exception ::CODE::::MESSAGE:ErrorCode :0 ErrorMessage: Connection reset by peer
+2023-06-25 02:45:00 [DefaultQuartzScheduler_Worker-4] ERROR com.olympus.OEKG.Utility.utility - ????????????????????????????????????????????
+2023-06-25 02:45:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 02:50:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 02:55:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 03:00:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 03:05:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 03:10:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 03:15:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 03:20:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 03:25:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 03:30:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 03:35:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 03:40:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 03:45:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 03:50:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 03:55:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 04:00:00 [DefaultQuartzScheduler_Worker-9] ERROR com.olympus.OEKG.Utility.utility - ???????????????	EXCEPTION	???????????????
+2023-06-25 04:00:00 [DefaultQuartzScheduler_Worker-9] ERROR com.olympus.OEKG.Utility.utility - utility::attachmentFileSize()::EXCEPTION::::
+Exception ::CODE::::MESSAGE:Connection reset by peer
+2023-06-25 04:00:00 [DefaultQuartzScheduler_Worker-9] ERROR com.olympus.OEKG.Utility.utility - ????????????????????????????????????????????
+2023-06-25 04:00:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 04:05:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 04:10:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 04:15:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 04:20:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 04:25:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 04:30:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 04:35:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 04:40:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 04:45:00 [DefaultQuartzScheduler_Worker-2] ERROR com.olympus.OEKG.Utility.utility - ???????????????	EXCEPTION	???????????????
+2023-06-25 04:45:00 [DefaultQuartzScheduler_Worker-2] ERROR com.olympus.OEKG.Utility.utility - utility::getBCDatabaseDetails()::EXCEPTION::::
+Exception ::CODE::::MESSAGE:ErrorCode :0 ErrorMessage: Connection reset by peer
+2023-06-25 04:45:00 [DefaultQuartzScheduler_Worker-2] ERROR com.olympus.OEKG.Utility.utility - ????????????????????????????????????????????
+2023-06-25 04:45:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 04:50:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 04:55:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 05:00:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 05:05:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 05:10:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 05:15:00 [DefaultQuartzScheduler_Worker-4] ERROR com.olympus.OEKG.Utility.utility - ???????????????	EXCEPTION	???????????????
+2023-06-25 05:15:00 [DefaultQuartzScheduler_Worker-4] ERROR com.olympus.OEKG.Utility.utility - utility::getBCDatabaseDetails()::EXCEPTION::::
+Exception ::CODE::::MESSAGE:ErrorCode :0 ErrorMessage: Connection reset by peer
+2023-06-25 05:15:00 [DefaultQuartzScheduler_Worker-4] ERROR com.olympus.OEKG.Utility.utility - ????????????????????????????????????????????
+2023-06-25 05:15:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 05:20:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 05:25:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 05:30:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 05:35:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 05:40:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 05:45:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 05:50:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 05:55:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 06:00:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 06:05:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 06:10:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 06:15:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 06:20:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 06:25:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 06:30:00 [DefaultQuartzScheduler_Worker-9] ERROR com.olympus.OEKG.Utility.utility - ???????????????	EXCEPTION	???????????????
+2023-06-25 06:30:00 [DefaultQuartzScheduler_Worker-9] ERROR com.olympus.OEKG.Utility.utility - utility::getBCDatabaseDetails()::EXCEPTION::::
+Exception ::CODE::::MESSAGE:ErrorCode :0 ErrorMessage: Connection reset by peer
+2023-06-25 06:30:00 [DefaultQuartzScheduler_Worker-9] ERROR com.olympus.OEKG.Utility.utility - ????????????????????????????????????????????
+2023-06-25 06:30:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 06:35:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 06:40:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 06:45:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 06:50:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 06:55:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 07:00:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 07:05:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 07:10:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 07:15:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 07:20:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 07:25:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 07:30:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 07:35:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 07:40:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 07:45:00 [DefaultQuartzScheduler_Worker-4] ERROR com.olympus.OEKG.Utility.utility - ???????????????	EXCEPTION	???????????????
+2023-06-25 07:45:00 [DefaultQuartzScheduler_Worker-4] ERROR com.olympus.OEKG.Utility.utility - utility::getBCDatabaseDetails()::EXCEPTION::::
+Exception ::CODE::::MESSAGE:ErrorCode :0 ErrorMessage: Connection reset by peer
+2023-06-25 07:45:00 [DefaultQuartzScheduler_Worker-4] ERROR com.olympus.OEKG.Utility.utility - ????????????????????????????????????????????
+2023-06-25 07:45:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 07:50:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 07:55:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 08:00:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 08:05:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 08:10:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 08:15:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 08:20:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 08:25:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 08:30:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 08:35:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 08:40:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 08:45:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 08:50:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 08:55:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 09:00:00 [DefaultQuartzScheduler_Worker-9] ERROR com.olympus.OEKG.Utility.utility - ???????????????	EXCEPTION	???????????????
+2023-06-25 09:00:00 [DefaultQuartzScheduler_Worker-9] ERROR com.olympus.OEKG.Utility.utility - utility::getBCDatabaseDetails()::EXCEPTION::::
+Exception ::CODE::::MESSAGE:ErrorCode :0 ErrorMessage: Connection reset by peer
+2023-06-25 09:00:00 [DefaultQuartzScheduler_Worker-9] ERROR com.olympus.OEKG.Utility.utility - ????????????????????????????????????????????
+2023-06-25 09:00:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 09:05:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 09:10:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 09:15:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 09:20:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 09:25:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 09:30:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 09:35:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 09:40:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 09:45:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 09:50:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 09:55:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 10:00:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 10:05:23 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 10:10:24 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 10:15:00 [DefaultQuartzScheduler_Worker-4] ERROR com.olympus.OEKG.Utility.utility - ???????????????	EXCEPTION	???????????????
+2023-06-25 10:15:00 [DefaultQuartzScheduler_Worker-4] ERROR com.olympus.OEKG.Utility.utility - utility::getBCDatabaseDetails()::EXCEPTION::::
+Exception ::CODE::::MESSAGE:ErrorCode :0 ErrorMessage: Connection reset by peer
+2023-06-25 10:15:00 [DefaultQuartzScheduler_Worker-4] ERROR com.olympus.OEKG.Utility.utility - ????????????????????????????????????????????
+2023-06-25 10:15:24 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2023-06-25 10:20:24 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
